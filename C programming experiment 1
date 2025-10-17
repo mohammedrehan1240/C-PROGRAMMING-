@@ -1,0 +1,26 @@
+*/
+
+ Name: MOHAMMED REHAN JAFAR HUSAIN LOHAR
+
+ UIN:251P098
+
+ CLASS: COMPUTER 2
+
+ DIVISION:D
+
+ */
+#include <stdio.h>
+int main() {
+int physics, chemistry maths,sum;
+ printf("enter your physics marks:");
+ scanf("%d",&physics);
+ printf("enter your chemistry marks:");
+ scanf("%d",&chemistry);
+ printf("enter your maths marks:");
+ scanf("%d",&maths);
+Sum = physics + chemistry + maths ;
+ int avg:
+ avg = sum /3;
+ (avg >=50)? printf("you are eligible\n") : printf("you are not eligible\n");
+ return 0;
+ }
