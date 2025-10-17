@@ -1,0 +1,16 @@
+/*
+ Name: MOHAMMED REHAN JAFAR HUSAIN LOHAR
+UIN:251P098
+ CLASS: COMPUTER 2
+DIVISION:D
+*/
+ #include <stdio.h>
+ int main() {
+// Write C code here
+ printf("NAME: MOHAMMED REHAN JAFAR HUSAIN LOHAR\n");
+ printf("CLASS; COMPUTER ENGINEERING\n");
+ printf("UIN:251p098\n");
+ printf("AGE:19\n");
+printf("DIVISION:D\n");
+
+}
